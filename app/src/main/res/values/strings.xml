@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geometri Kubus</string>
+    <string name="gambar_kubus">gambar kubus</string>
+    <string name="panjang">Sisi</string>
+    <string name="contoh">misal : 20</string>
+    <string name="luas">Luas</string>
+    <string name="volume">volume</string>
+    <string name="result">result</string>
+</resources>
